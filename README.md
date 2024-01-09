@@ -7,7 +7,7 @@ Hi, my name is Oualid Azmi 👋
 Languages and tools: 
 
 <div>
-   <img align="left" alt="C" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" style="padding-right:10px;" />
+   <img align="left" alt="C" width="35px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" style="padding-right:10px;" />
    
 
 </div>
