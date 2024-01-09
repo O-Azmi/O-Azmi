@@ -7,9 +7,10 @@ Hi, my name is Oualid Azmi 👋
 Languages and tools: 
 
 <div>
-   <img style="padding-top= 0;" align="left" alt="C" height= "400px" src=https://github.com/O-Azmi/O-Azmi/assets/156133878/a5b959c6-5427-46e0-9b80-b2d8305812d3;"/>
+   <img style="padding-top= 0;" align="left" alt="C" height= "400px" src=https://github.com/O-Azmi/O-Azmi/assets/156133878/a652deef-68f1-47e0-b18d-e57a22114623;"/>
    
 
 
 </div>
+
 
