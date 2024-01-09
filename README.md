@@ -7,7 +7,7 @@ Hi, my name is Oualid Azmi 👋
 Languages and tools: 
 
 <div>
-   <img align="left" alt="C" height= "250px" src=https://github.com/O-Azmi/O-Azmi/assets/156133878/a5b959c6-5427-46e0-9b80-b2d8305812d3;" />
+   <img align="left" alt="C" height= "400px" src=https://github.com/O-Azmi/O-Azmi/assets/156133878/a5b959c6-5427-46e0-9b80-b2d8305812d3;" />
    
 
 
