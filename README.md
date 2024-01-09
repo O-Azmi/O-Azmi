@@ -7,7 +7,7 @@ Hi, my name is Oualid Azmi 👋
 Languages and tools: 
 
 <div>
-   <img align="left" alt="C" width="35px" src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png" style="padding-right:10px;" />
+   <img align="left" alt="C" width="35px" src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies-thumbnail.png" style="padding-right:10px;" />
    
 
 </div>
