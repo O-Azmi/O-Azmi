@@ -7,7 +7,8 @@ Hi, my name is Oualid Azmi 👋
 Languages and tools: 
 
 <div>
-   <img align="left" alt="C" width="35px" src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies-thumbnail.png" style="padding-right:10px;" />
-   
+   <img align="left" alt="C" width="35px" src="https://github.com/O-Azmi/O-Azmi/assets/156133878/1415aef0-42d2-4979-af20-b2ba2284b71f" style="padding-right:10px;" />
+ 
+
 
 </div>
