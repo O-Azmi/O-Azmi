@@ -1,5 +1,5 @@
-Hi, my name is Oualid 👋
+Hello there 👋
 
-- 🔭 I’m currently working on some fun projects.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on an E-commerce project..
+- 🌱 I’m currently learning ExpressJs.
 - 💬 Ask me anything.
