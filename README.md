@@ -4,9 +4,11 @@ Hello there 👋
 - 🌱 I’m currently learning ExpressJs.
 - 💬 Ask me anything.
 
-- 📫 How to reach me : azmioualid@gmail.com
+### 📫 How to reach me:
+- Email: azmioualid@gmail.com
 
-- Technical Skills:
+### 🔧 Technical Skills:
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
