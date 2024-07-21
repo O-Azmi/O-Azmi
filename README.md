@@ -26,4 +26,4 @@ I’m currently working on an E-commerce project and learning Express.js. Feel f
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-239922?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![O-Azmi](https://github-readme-activity-graph.vercel.app/graph?username=O-Azmi&custom_title=Azmi%20Oualid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) 
+![O-Azmi](https://github-readme-activity-graph.vercel.app/graph?username=O-Azmi&custom_title=Azmi%20Oualid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=1E3A8A&line=1E3A8A&point=1E3A8A&area_color=FFFFFF&title_color=FFFFFF&area=true)
